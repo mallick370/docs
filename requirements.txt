@@ -1,0 +1,11 @@
+# Dependencies for Python project
+# Testing framework
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Code quality tools
+flake8>=6.0.0
+black>=23.0.0
+
+# Example dependencies (can be customized later)
+requests>=2.28.0
